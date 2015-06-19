@@ -1,0 +1,12 @@
+# Section Titles
+sections:
+- {name: About, url: '#about'}
+- {name: Work, url: '#work'}
+- {name: Praise, url: '#testimonials'}
+- {name: Contact, url: '#contact'}
+
+# Colors
+primary: '#F95656'
+text-color: '#2E2D33'
+accent-color: '#F6F6F8'
+bg-color: '#F6F6F8'
