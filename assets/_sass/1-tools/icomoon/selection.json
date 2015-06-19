@@ -1,0 +1,84 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M316 334l196 196 196-196 60 60-256 256-256-256z"
+				],
+				"attrs": [
+					{}
+				],
+				"isMulticolor": false,
+				"tags": [
+					"keyboard_arrow_down"
+				],
+				"defaultCode": 57615,
+				"grid": 24
+			},
+			"attrs": [
+				{}
+			],
+			"properties": {
+				"order": 1,
+				"id": 271,
+				"prevSize": 24,
+				"code": 57615,
+				"name": "keyboard_arrow_down",
+				"ligatures": "keyboard_arrow_down"
+			},
+			"setIdx": 1,
+			"setId": 2,
+			"iconIdx": 271
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"showSelector": true,
+			"selector": "",
+			"showMetrics": true,
+			"showMetadata": true,
+			"showVersion": true,
+			"embed": false,
+			"classSelector": ".icon",
+			"autoHost": false,
+			"resetPoint": 58880,
+			"cssVars": true
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100,
+		"showCodes": false,
+		"gridSize": 16,
+		"showLiga": false,
+		"quickUsageToken": {
+			"UntitledProject": "ZGQ4ZjI2ODI2OGM1YmY5MDcxZGI3ZTIzYjNiYTA4OTgjMSMxNDM0Njg1NzI5IyMj"
+		},
+		"fontHostingName": false
+	}
+}
