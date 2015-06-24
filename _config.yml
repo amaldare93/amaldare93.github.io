@@ -1,6 +1,4 @@
 # Build settings
 markdown: kramdown
 
-sass:
-  sass_dir: /assets/_sass/
-  style: :nested
+exclude: ["node_modules", "gulpfile.js", "package.json"]
